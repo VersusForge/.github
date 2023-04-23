@@ -1,2 +1,1 @@
-# .github
-VersusForge organisation profile
+# VersusForge organisation profile
